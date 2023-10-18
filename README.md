@@ -6,9 +6,13 @@
     <!-- Social --> 
     <p><strong>Social</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <a href="henajung10@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/hyewon-jung-293a8b244/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
         <img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white">
     </div>
@@ -72,3 +76,4 @@
 
 
 ![hw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1004&show_icons=true&theme=transparent)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=hw1004)-->

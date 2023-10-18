@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=7390AD&height=150&section=header&text=Welcome%20to%20hw's%20GitHub!%20&animation=twinkling&fontSize=30&fontColor=FFFFFF)
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=7390AD&height=150&section=header&text=Welcome%20to%20hw's%20GitHub!%20&animation=fadeIn&fontSize=30&fontColor=FFFFFF)
 ## Social/Office 💬
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">

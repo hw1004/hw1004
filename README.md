@@ -61,7 +61,6 @@
     <!-- Frameworks, Platforms and Libraries -->
     <p><strong>Frameworks, Platforms and Libraries</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>

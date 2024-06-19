@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=7390AD&height=150&section=header&text=Welcome%20to%20hw's%20GitHub!%20&animation=fadeIn&fontSize=30&fontColor=FFFFFF)
-## Social/Office 💬
+## Contacts 💬
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Contacts --> 
@@ -12,21 +12,12 @@
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
     </div>
-    <!-- Social --> 
-    <p><strong>Social</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-        <img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    </div>
 </div>
 
 ## Skills 📋
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
-    <p><strong>Languages</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
         <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -40,25 +31,19 @@
     <p><strong>ML/DL</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">  
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> 
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     </div>
     <!-- Database/Analytics -->
     <p><strong>Database/Analytics</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
     </div>
     <!-- Version Control -->
-    <p><strong>Version Control</strong></p>
+<!--     <p><strong>Version Control</strong></p>
     <div>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    </div>
+    </div> -->
     <!-- Frameworks, Servers and Libraries -->
     <p><strong>Frameworks, Servers and Libraries</strong></p>
     <div>
@@ -66,7 +51,7 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
         <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
-        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+<!--         <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"> -->
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
     </div>
     <!-- IDEs/Editors/Hosting -->
@@ -83,5 +68,5 @@
 
 
 
-![hw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1004&show_icons=true&theme=transparent&hide=issues)
+<!-- ![hw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1004&show_icons=true&theme=transparent&hide=issues)-->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=hw1004)-->

@@ -3,7 +3,7 @@
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Contacts --> 
-    <p><strong>Contacts</strong></p>
+<!--     <p><strong>Contacts</strong></p> -->
     <div>
         <a href="mailto:﻿"henajung10@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
     </div>
     <!-- IDEs/Editors/Hosting -->
-    <p><strong>IDEs/Editors</strong></p>
+<!--     <p><strong>IDEs/Editors</strong></p>
     <div>
         <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
         <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div><br>
+</div><br> -->
 </div>
 
 

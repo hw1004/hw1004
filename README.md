@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=7390AD&height=150&section=header&text=Welcome%20to%20hw's%20GitHub!%20&animation=fadeIn&fontSize=30&fontColor=FFFFFF)
 ## Contacts 💬
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -32,8 +31,8 @@
     <!-- ML/DL -->
     <p><strong>ML/DL</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">  
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
     </div>
     <!-- Frameworks, Servers and Libraries -->
     <p><strong>Frameworks, Servers and Libraries</strong></p>

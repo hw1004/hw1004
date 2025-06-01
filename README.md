@@ -1,3 +1,9 @@
+## About Me :)
+- Graduate Student at SBU, majoring in Applied mathematics and statistics
+- Graduate Research Assistant at SBU, Computer Science Department (Machine learning lab)
+- LG Uplus R&D AI Scientist Intern
+- Research Interest: Distribution shift, Unsupervised learning, Sampling method, Anomaly detection
+
 ## Contacts 💬
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">

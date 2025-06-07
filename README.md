@@ -1,4 +1,4 @@
-## About Me :)
+## About Me
 - Graduate Student at SBU, majoring in Applied mathematics and statistics
 - Graduate Research Assistant at SBU, Computer Science Department (Machine learning lab)
 - LG Uplus R&D AI Scientist Intern
